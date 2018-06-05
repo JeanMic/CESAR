@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">androidBasicoCESAR</string>
+    <string name="app_name">Android Básico CESAR</string>
+    <string name="trab">Tarefas do Trabalho</string>
+    <string name="casa">Tarefas de Casa</string>
+    <string name="config">Configurações</string>
 </resources>
