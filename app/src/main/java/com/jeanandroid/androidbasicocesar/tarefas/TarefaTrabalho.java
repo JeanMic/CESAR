@@ -1,4 +1,6 @@
-package com.jeanandroid.androidbasicocesar;
+package com.jeanandroid.androidbasicocesar.tarefas;
+
+import com.jeanandroid.androidbasicocesar.R;
 
 public class TarefaTrabalho {
 

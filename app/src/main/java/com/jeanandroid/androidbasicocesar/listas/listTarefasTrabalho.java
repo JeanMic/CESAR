@@ -1,8 +1,12 @@
-package com.jeanandroid.androidbasicocesar;
+package com.jeanandroid.androidbasicocesar.listas;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
+
+import com.jeanandroid.androidbasicocesar.R;
+import com.jeanandroid.androidbasicocesar.tarefas.TarefaTrabalho;
+import com.jeanandroid.androidbasicocesar.adapters.adapterTarefa;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,8 +1,12 @@
-package com.jeanandroid.androidbasicocesar;
+package com.jeanandroid.androidbasicocesar.listas;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
+
+import com.jeanandroid.androidbasicocesar.R;
+import com.jeanandroid.androidbasicocesar.tarefas.TarefasCasa;
+import com.jeanandroid.androidbasicocesar.adapters.adapterTarefaCasa;
 
 import java.util.Arrays;
 import java.util.List;
@@ -23,7 +27,7 @@ public class listTarefasCasa extends AppCompatActivity {
         lista.setAdapter(adapter);
     }
 
-    //    @Override
+//    @Override
 //    public void onListItemClick(ListView listView,
 //                                View itemView,
 //                                int position,

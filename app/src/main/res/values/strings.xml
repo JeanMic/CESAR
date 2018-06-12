@@ -3,4 +3,7 @@
     <string name="trab">Tarefas do Trabalho</string>
     <string name="casa">Tarefas de Casa</string>
     <string name="config">Configurações</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

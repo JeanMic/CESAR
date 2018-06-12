@@ -1,4 +1,4 @@
-package com.jeanandroid.androidbasicocesar;
+package com.jeanandroid.androidbasicocesar.adapters;
 
 import android.app.Activity;
 import android.view.View;
@@ -6,6 +6,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.jeanandroid.androidbasicocesar.R;
+import com.jeanandroid.androidbasicocesar.tarefas.TarefaTrabalho;
 
 import java.util.List;
 

@@ -6,6 +6,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 
+import com.jeanandroid.androidbasicocesar.listas.listTarefasCasa;
+import com.jeanandroid.androidbasicocesar.listas.listTarefasTrabalho;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ImageView ImgTrab;
