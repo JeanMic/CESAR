@@ -18,7 +18,9 @@
         </activity>
         <activity android:name=".listas.listTarefasTrabalho" />
         <activity android:name=".listas.listTarefasCasa" />
-        <activity android:name=".fragment.DetalheTarefaAct"></activity>
+        <activity
+            android:name=".fragment.DetalheTarefaAct">
+        </activity>
     </application>
 
 </manifest>
